@@ -66,4 +66,12 @@
         --profile-author-name-color: #040053;
         --profile-link-color: #040053;
         --profile-link-hover-color: #040053;
+
+        /* footer colors */
+        --footer-background-color: white;
+        --footer-text-color: black;
+        --footer-link-color: blue;
+        --footer-link-hover-color: blue;
+        --footer-link-active-color: blue;
+        --footer-link-active-hover-color: blue;
 }
